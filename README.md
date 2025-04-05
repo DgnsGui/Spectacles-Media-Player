@@ -1,2 +1,2 @@
-# DGNS-Music-Player
-DGNS Music Player for Snap Spectacles
+# DGNS-Media-Player
+DGNS Media Player for Snap Spectacles
